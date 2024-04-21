@@ -1,1 +1,1 @@
-run ```parcel ./src/index.html```
+run ```parcel ./src/index.html``` in terminal to simulate solar system
